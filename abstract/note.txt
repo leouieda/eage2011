@@ -1,0 +1,9 @@
+To generate high quality png:
+
+    run plot script with
+    mayavi2 -x script.py
+
+Enable off screen rendering
+in Ipython use
+
+    mlab.savefig("fig.png", magnification=2)

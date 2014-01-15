@@ -1,0 +1,33 @@
+Fatiando a Terra:
+  version: 0.0.1
+  date: Wed Dec 15 17:20:39 2010
+  version control info:
+    changeset:   163:abc1d1819b62
+    tag:         tip
+    user:        Leonardo Uieda <leouieda@gmail.com>
+    date:        Wed Dec 15 15:46:13 2010 -0200
+
+Generating synthetic gxx data:
+  grid type: regular
+  data points = 2500
+Saving gravity field data to file 'gxx_data.txt'
+Generating synthetic gxy data:
+  grid type: regular
+  data points = 2500
+Saving gravity field data to file 'gxy_data.txt'
+Generating synthetic gxz data:
+  grid type: regular
+  data points = 2500
+Saving gravity field data to file 'gxz_data.txt'
+Generating synthetic gyy data:
+  grid type: regular
+  data points = 2500
+Saving gravity field data to file 'gyy_data.txt'
+Generating synthetic gyz data:
+  grid type: regular
+  data points = 2500
+Saving gravity field data to file 'gyz_data.txt'
+Generating synthetic gzz data:
+  grid type: regular
+  data points = 2500
+Saving gravity field data to file 'gzz_data.txt'

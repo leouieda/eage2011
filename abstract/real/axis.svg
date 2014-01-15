@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="1025"
+   height="625"
+   xml:space="preserve"
+   sodipodi:docname="axis.pdf"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" /></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.53400704"
+     inkscape:cx="561.63229"
+     inkscape:cy="256.97091"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" /><g
+     id="g12"
+     inkscape:groupmode="layer"
+     inkscape:label="axis"
+     transform="matrix(1.25,0,0,-1.25,0,625)"><text
+       transform="matrix(0.46997468,-0.8826799,-0.8826799,-0.46997468,0,0)"
+       id="text16"
+       x="-56.990383"
+       y="-297.36035"
+       style="font-size:12px"><tspan
+         style="font-size:19px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="-56.990383"
+         y="-297.36035"
+         id="tspan18">Northing [m]</tspan></text>
+<text
+       transform="scale(1,-1)"
+       id="text20"
+       x="208.45033"
+       y="-283.77716"><tspan
+         style="font-size:15px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="208.45033 216.79033 225.13033 233.47034 241.81033 250.15033"
+         y="-283.77716"
+         sodipodi:role="line"
+         id="tspan22">17044.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,242.29549,219.43887)"
+       id="text24"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan26">16577.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,279.34067,151.30261)"
+       id="text28"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan30">16110.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,316.38583,82.16433)"
+       id="text32"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan34">15643.</tspan></text>
+<text
+       transform="scale(1,-1)"
+       id="text36"
+       x="350.23102"
+       y="-20.428057"><tspan
+         style="font-size:15px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="350.23102 358.57101 366.91101 375.25101 383.591 391.93103"
+         y="-20.428057"
+         sodipodi:role="line"
+         id="tspan38">15176.</tspan></text>
+<text
+       transform="matrix(-0.21092026,0.97750327,0.97750327,0.21092026,0,0)"
+       id="text40"
+       x="251.10736"
+       y="264.18848"
+       style="font-size:12px"><tspan
+         style="font-size:19px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="251.10736"
+         y="264.18848"
+         id="tspan42">Height [m]</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,188.22954,415.83166)"
+       id="text44"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36"
+         y="0"
+         sodipodi:role="line"
+         id="tspan46">1314.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,193.23567,384.76956)"
+       id="text48"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36"
+         y="0"
+         sodipodi:role="line"
+         id="tspan50">1086.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,199.243,354.70941)"
+       id="text52"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02"
+         y="0"
+         sodipodi:role="line"
+         id="tspan54">857.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,204.2491,323.64728)"
+       id="text56"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02"
+         y="0"
+         sodipodi:role="line"
+         id="tspan58">629.</tspan></text>
+<text
+       transform="scale(1,-1)"
+       id="text60"
+       x="213.45644"
+       y="-297.38519"><tspan
+         style="font-size:15px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="213.45644 221.79643 230.13643 238.47643"
+         y="-297.38519"
+         sodipodi:role="line"
+         id="tspan62">400.</tspan></text>
+<text
+       transform="matrix(0.91116635,0.4120387,0.4120387,-0.91116635,0,0)"
+       id="text64"
+       x="491.14856"
+       y="187.41136"
+       style="font-size:12px"><tspan
+         style="font-size:19px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="491.14856"
+         y="187.41136"
+         id="tspan66">Easting [m]</tspan></text>
+<text
+       transform="scale(1,-1)"
+       id="text68"
+       x="399.47748"
+       y="-11.216036"><tspan
+         style="font-size:15px;font-style:oblique;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="399.47748 407.81747 416.15747 424.49747 432.83746 441.17749"
+         y="-11.216036"
+         sodipodi:role="line"
+         id="tspan70">10625.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,449.54825,35.070137)"
+       id="text72"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan74">10953.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,508.6203,63.126251)"
+       id="text76"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan78">11282.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,566.6911,90.180367)"
+       id="text80"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan82">11610.</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,625.76312,118.23648)"
+       id="text84"><tspan
+         style="fill:#020202;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-style:oblique;font-variant:normal;font-weight:bold;font-size:15;writing-mode:lr;-inkscape-font-specification:Helvetica-BoldOblique"
+         x="0 8.34 16.68 25.02 33.36 41.7"
+         y="0"
+         sodipodi:role="line"
+         id="tspan86">11938.</tspan></text>
+<path
+       d="m 327,165 -4.39926,-2.37622 M 364,96.500015 359.60074,94.123749 M 401,28 396.60074,25.623749 M 401,28 403.12714,23.475037 M 290,233.5 285.60074,231.12378 M 253,302 248.60074,299.62375 M 253,302 248.07811,301.11969 M 253,302 401,28 m -153.49999,304.75003 -4.9219,-0.88037 m -0.57813,31.63037 -4.92186,-0.88037 M 236.5,394.25 231.57811,393.36969 M 231,425 226.07811,424.11969 M 231,425 253,302 M 401,28 635,138.00001 M 459.5,55.5 461.62714,50.975021 M 518,83 520.12714,78.475021 M 576.5,110.50002 l 2.1272,-4.52498 M 635,138.00001 l 2.12714,-4.52496"
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:2.0999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path88" /></g></svg>
